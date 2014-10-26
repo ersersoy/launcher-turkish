@@ -37,7 +37,7 @@
 <string name="dialog_pick_iconpack_title">Simge Paketi Seç</string>
 <string name="default_iconpack_title">Varsayılan Simgeler</string>
 <string name="icon_packs_title">Simge Paketleri</string>
-<string name="no_iconpacks_summary">Hiçbir Simge Paketi Yüklenmedi</string>
+<string name="no_iconpacks_summary">Herhangi Bir Simge Paketi Yüklenmedi</string>
 <string name="pref_icon_pack_title">Simge Paketi</string>
 <!-- Gestures -->
 <string name="gestures_title">Hareketler</string>
@@ -72,4 +72,35 @@
 <string name="folder_background_color_title">Arkaplan Rengi</string>
 <string name="hide_folder_name_title">Klasör ismini Gizle</string>
 <string name="hide_folder_name_summary">Klasör Açıkken Klasör Ismini Gösterme</string>
+
+<string name="delete_string">Delete</string>
+
+<!-- Backup / Restore settings -->
+<string name="backup_restore_title">Yedekleme/ Geri Yükleme</string>
+<string name="backup_title">Yedekle</string>
+<string name="backup_summary">SlimLauncher Ayarlarını SD Kart`a Yedekle</string>
+<string name="backup_completed">Ayarları Yedekleme Başarılı</string>
+<string name="backup_failed">Ayarları Yedekleme Başarısız.</string>
+<string name="backup_delete_completed">Yedek Başarı ile Silindi.</string>
+<string name="backup_delete_failed">Yedeği Silme Başarısız.</string>
+<string name="name_backup_title">Yedekleme Ismi:</string>
+<string name="restore_title">Geri Yükleme</string>
+<string name="restore_summary">SlimLauncher Ayarlarını SD Karttan Geri Yükle</string>
+<string name="restore_completed">Ayarları Geri Yükleme Başarılı!</string>
+<string name="restore_failed">Ayarları Geri Yükleme Başarısız.!</string>
+<string name="manage_backup_title">Yedeklemeyi Yonet</string>
+<string name="restore_warning">Yedeklerden biri Geçerli Yapılandırma ile yer değiştirecektir.</string>
+<string name="kill_dialog_title">Başlatici Kapatılıyor</string>
+<string name="warn_kill_launcher">Başlatıcı geri yüklenen ayarların geçerli olabilmesi için kapatılıyor</string>
+
+<!-- Gestures & Buttons -->
+<string name="gestures_buttons_title">Haraketler/Tuşlar</string>
+<string name="buttons_title">Tuşlar</string>
+<string name="home_button_title">Ev Tuşu</string>
+<string name="home_button_default_title">Sadece Varsayılan Ana Ekranda</string>
+<string name="home_button_default_summary">Varsayılan Ekran icin Ev Tuşuna bir kere basın, faaliyet için ikinci defa basın</string>
+<string name="back_button_title">Geri Tuşu</string>
+<string name="menu_button_title">Menu Tuşu</string>
+
+
 </resources>
